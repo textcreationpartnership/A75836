@@ -1,0 +1,1556 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A vvife, not ready made, but bespoken, by Dicus the Batchelor, and made up for him by his fellow shepheard Tityrus. In four pastorall eglogues.</title>
+            <author>Aylett, Robert, 1583-1655?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 53 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75836</idno>
+            <idno type="STC">Wing A4285</idno>
+            <idno type="STC">Thomason E1455_2</idno>
+            <idno type="STC">ESTC R209592</idno>
+            <idno type="EEBO-CITATION">99868460</idno>
+            <idno type="PROQUEST">99868460</idno>
+            <idno type="VID">169978</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75836)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169978)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 186:E1455[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A vvife, not ready made, but bespoken, by Dicus the Batchelor, and made up for him by his fellow shepheard Tityrus. In four pastorall eglogues.</title>
+                  <author>Aylett, Robert, 1583-1655?</author>
+               </titleStmt>
+               <editionStmt>
+                  <edition>The second edition: wherein are some things added but nothing amended.</edition>
+               </editionStmt>
+               <extent>[6], 26 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for A.R.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Anonymous. By Robert Aylett.</note>
+                  <note>In verse.</note>
+                  <note>Annotation on Thomason copy: "7ber [i.e. September]: 13".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Pastoral drama, English --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169978:1" rendition="simple:additions"/>
+            <p>A VVIFE, NOT READY MADE, BUT BESPOKEN, BY DICUS the Batchelor, and made up for him by his fellow Shepheard TITYRUS.</p>
+            <p>
+               <hi>In four Paſtorall Eglogues.</hi>
+            </p>
+            <p>The ſecond Edition: Wherein are ſome things added but nothing amended.</p>
+            <lg>
+               <l>All Huſbands that do laugh or weep,</l>
+               <l>Read over this before you ſleep;</l>
+               <l>Here's virtue in each line and letter,</l>
+               <l>To make both <hi>good</hi> and <hi>bad Wives</hi> better:</l>
+               <l>But they that are reſolv'd for none,</l>
+               <l>Were better let this Book alone,</l>
+               <l>Leſt ſeeing here the good of <hi>Wives,</hi>
+               </l>
+               <l>They change their <hi>Votes</hi> for married <hi>Lives.</hi>
+               </l>
+            </lg>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>A. R.</hi> 1653.</p>
+         </div>
+         <div type="verse_dedication">
+            <pb facs="tcp:169978:2"/>
+            <pb facs="tcp:169978:2"/>
+            <head>TO My Honoured Good Friend S<hi rend="sup">r</hi> 
+               <hi>Robert Stapleton.</hi>
+            </head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">T</seg>Hou that enjoyſt the happieſt life</l>
+               <l>That ever mortall lead with Wife,</l>
+               <l>Who ſo in goodneſs doth tranſce<g ref="char:cmbAbbrStroke">̄</g>d,</l>
+               <l>She neither needs nor can amend:</l>
+               <l>Were I as thou, ſure I ſhould feare</l>
+               <l>That I my <hi>Heaven</hi> on <hi>Earth</hi> had here,</l>
+               <l>And that which is a ſadding ſtory,</l>
+               <l>Muſt bide as long in <hi>Purgatory:</hi>
+               </l>
+               <l>To thee, this <hi>Wife</hi> will needs addreſſe</l>
+               <l>To mediate her a <hi>Patroneſse,</hi>
+               </l>
+               <l>For well ſhe knows thou doſt excell</l>
+               <l>In knowing more than ſhe cantell,</l>
+               <l>And that of <hi>Females</hi> thou art <hi>Maſter,</hi>
+               </l>
+               <l>And wilt truſt none to be thy <hi>taſter.</hi>
+               </l>
+               <l>Of thy great Learning none makes doubt,</l>
+               <l>Thou them <hi>within</hi> knowſt as <hi>without,</hi>
+               </l>
+               <l>The greateſt Schollers ever deign</l>
+               <l>The Sonets of a Sheephards <hi>Swain.</hi>
+               </l>
+            </lg>
+            <closer>
+               <signed>R. A.</signed>
+            </closer>
+         </div>
+         <div type="poem" subtype="to_the__reader">
+            <pb facs="tcp:169978:3"/>
+            <head>Lectori Caelibi. To the ſingle Reader.</head>
+            <lg>
+               <l>THou with this Wife in Bed maiſt lye</l>
+               <l>Yet not commit Adulterye,</l>
+               <l>And though twice twelve empanneld men ſhould finde</l>
+               <l>Thee guilty, and thy Judges be inclin'd</l>
+               <l>To hang or head thee, for a ſinfull fact</l>
+               <l>Thou ſhalt avoid the fury of the Act:</l>
+               <l>In <hi>Curia rectus</hi> thou maiſt boldly ſtand</l>
+               <l>From dread of Whip or burning in the Hand;</l>
+               <l>Abandon Her, ſhe will be well content</l>
+               <l>To wave her right and claim to <hi>Aliment;</hi>
+               </l>
+               <l>Nor can the Remedies the Law affords</l>
+               <l>Gainſt force and Rape or wreſting from her words</l>
+               <l>She'l not Inflame the pimping Taylors ſcore,</l>
+               <l>To make her ſuch a wagtayl as <hi>Iane ſhore.</hi>
+               </l>
+               <l>Like Act of Pardon pen'd with fineſt skill</l>
+               <l>She is a Wife and no Wife at thy will;</l>
+               <l>A <hi>Hochos Pocos</hi> tyde with ſuch a nooſe</l>
+               <l>Thou at thy pleaſure maiſt play faſt and looſe;</l>
+               <l>Behold her well, ſhe favours at a glance</l>
+               <l>That ſpecious <hi>Self-denying Ordinance.</hi>
+               </l>
+            </lg>
+            <closer>
+               <signed>J. H.</signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:169978:3"/>
+            <head>The two married Shepheards <hi>T.</hi> and <hi>D.</hi> to <hi>R.</hi> and <hi>G. Batchelours.</hi>
+            </head>
+            <lg>
+               <l>YOu both ſecure in harbour ſit,</l>
+               <l>And ſmile at our experienc'd wit:</l>
+               <l>Who plead at <hi>Bar</hi> before our Wives,</l>
+               <l>For Liberties and quiet lives:</l>
+               <l>Such Bliſſe did only <hi>Jove</hi> obtain,</l>
+               <l>That <hi>Greeks</hi> and <hi>Trojanes</hi> on the plain,</l>
+               <l>From <hi>Idas</hi> top, did fighting ſee,</l>
+               <l>In far leſſe danger there, than wee.</l>
+               <l>You move above in ſingle ſphears,</l>
+               <l>And ſport with jealouſies and fears</l>
+               <l>Of married folks, and houſhould care:</l>
+               <l>Your flocks the better ſurely fare.</l>
+               <l>The ſingle man no weather feels</l>
+               <l>But riſing, in the night, all ſeels,</l>
+               <l>To's deareſt Lambs doth duely look,</l>
+               <l>Bears he a <hi>Tinn'd</hi> or <hi>Silver Crook.</hi>
+               </l>
+               <l>Sweet <hi>Milk</hi> and <hi>Hony</hi> is his <hi>diet.</hi>
+               </l>
+               <l>His <hi>Phyſick true content</hi> and <hi>quiet,</hi>
+               </l>
+               <l>A ſoup of <hi>Cider</hi> or brisk <hi>Perry</hi>
+               </l>
+               <l>Will make his heart all blith and merry:</l>
+               <l>And going to his dreadles neſt,</l>
+               <l>Findes nothing there to break his reſt,</l>
+               <l>But on a Couch of moſſe and leaves,</l>
+               <l>All worldly Cares and thought deceives.</l>
+               <pb facs="tcp:169978:4"/>
+               <l>His ſleep as ſweet as ſhort: his dreams</l>
+               <l>Of flowry banks, or ſilver ſtreams,</l>
+               <l>Thence early up, in open air</l>
+               <l>He leads his flocks through paſtures fair,</l>
+               <l>Where cryſtall brooks ſoft murmuring</l>
+               <l>Invite his Heart to ſleep or ſing</l>
+               <l>With Quiriſters, in neighbour groves,</l>
+               <l>Who there recount their mutuall loves.</l>
+               <l>You Batchelors live merry lives,</l>
+               <l>But wee'l not change, that have good Wives.</l>
+            </lg>
+            <lg>
+               <l>IF he that hath character'd out a Wife,</l>
+               <l>Might ſee her practique part thus drawn to life,</l>
+               <l>He could not but with ſhouts and acclamation,</l>
+               <l>Preferre thy practice to his contemplation:</l>
+               <l>So doſt thou branch her out in every line,</l>
+               <l>That only thou deſerv'ſt ſhe ſhould be thine:</l>
+               <l>Oh! wer't thou ſingle now, and free, as I,</l>
+               <l>No woman, ſhouldſt thou ask, could thee deny;</l>
+               <l>So powr'fully haſt thou their cauſe defended,</l>
+               <l>And highly, as they well deſerve, commended:</l>
+               <l>Such goodnes thou deſcri'ſt in woman kinde,</l>
+               <l>As never any could before thee finde.</l>
+            </lg>
+            <closer>
+               <signed>G. H.</signed>
+            </closer>
+         </div>
+         <div type="poem" subtype="to_the__reader">
+            <head>To the Courteous READER.</head>
+            <lg>
+               <l>
+                  <hi>BE thou yoa'kd or ſingle man,</hi>
+               </l>
+               <l>
+                  <hi>Shew her fellow if thou can,</hi>
+               </l>
+               <l>
+                  <hi>One may chance ſeek all his life,</hi>
+               </l>
+               <l>
+                  <hi>Yet not finde out ſuch a Wife,</hi>
+               </l>
+               <l>
+                  <hi>May her Parallel be ſhown,</hi>
+               </l>
+               <l>
+                  <hi>Take her Reader for their own.</hi>
+               </l>
+            </lg>
+            <closer>
+               <signed>DICUS</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:169978:4"/>
+            <head>A WIFE.</head>
+            <div n="1" type="eclogue">
+               <head>The firſt Eglogue.</head>
+               <stage>Speakers: <hi>Dicus, Tityrus.</hi>
+               </stage>
+               <sp>
+                  <speaker>Dicus.</speaker>
+                  <l>
+                     <seg rend="decorInit">G</seg>Ood <hi>Tityrus!</hi> what ſhall I do?</l>
+                  <l>I love, yet am afraid to wooe,</l>
+                  <l>Such freedom is in ſingle life,</l>
+                  <l>I dread the yoaking with a Wife;</l>
+                  <l>For now I revell, ſing and play,</l>
+                  <l>Go where I liſt each Holiday,</l>
+                  <l>Laugh, caroll, pipe: thus blithe and merry,</l>
+                  <l>I to my Lambs ſing Hey down derry:</l>
+                  <l>But if I once turn married man,</l>
+                  <l>Then ſay or do I what I can,</l>
+                  <l>All is too little her to pleaſe,</l>
+                  <l>I fain would wive, yet live at eaſe;</l>
+                  <l>I hear ſome married men, that ſay,</l>
+                  <l>That wives will brow-beat all the day,</l>
+                  <l>At night within the curtains preach,</l>
+                  <l>And men muſt learn what they do teach;</l>
+                  <l>Againſt this how may I provide?</l>
+                  <l>They beſt can teach us that have tri'd.</l>
+               </sp>
+               <sp>
+                  <speaker>Tityrus.</speaker>
+                  <l>If ſhe within the curtains chide,</l>
+                  <l>My head within the ſheet I hide,</l>
+                  <l>And either to my prayers fall,</l>
+                  <l>Or on the <hi>Muſing Sisters</hi> call,</l>
+                  <l>To help me ſing, or elſe to weep,</l>
+                  <l>Till in the end I fall aſleep:</l>
+                  <pb n="2" facs="tcp:169978:5"/>
+                  <l>Then Great <hi>Apollo</hi> in a Dream,</l>
+                  <l>Forbids me ſtrive againſt the ſtream;</l>
+                  <l>By ſtirring I much duſt may raiſe,</l>
+                  <l>The lowring Mornes prove faireſt daies:</l>
+                  <l>Good Houſ-wives when their pot boils over,</l>
+                  <l>To cool the Broth take off the cover,</l>
+                  <l>The ſimple make it ſeethe up higher,</l>
+                  <l>By laying fuell on the fire.</l>
+                  <l>Thus ſweeten I a married life,</l>
+                  <l>And when I wake behold my Wife</l>
+                  <l>As kindely fals within mine Arms,</l>
+                  <l>As if ſhe never meant me harms.</l>
+               </sp>
+               <sp>
+                  <speaker>Dicus.</speaker>
+                  <l>This Counſell only they can follow,</l>
+                  <l>Who are acquainted with <hi>Apollo,</hi>
+                  </l>
+                  <l>But many Husbands finde a ſhrow,</l>
+                  <l>That never did <hi>Apollo</hi> know,</l>
+                  <l>Nor ever ſupped at the <hi>Well</hi>
+                  </l>
+                  <l>By which the <hi>Muſing Siſters</hi> dwell.</l>
+               </sp>
+               <sp>
+                  <speaker>Tityrus.</speaker>
+                  <l>Why! <hi>Dicus</hi> they may fail to pray,</l>
+               </sp>
+               <sp>
+                  <speaker>Dicus.</speaker>
+                  <l>That's for the night: But how by day?</l>
+                  <l>Muſt I demean to ſtint all ſtrife,</l>
+                  <l>With whom I muſt ſpend all my life?</l>
+               </sp>
+               <sp>
+                  <speaker>Tityrus.</speaker>
+                  <l>Indeed it is the depth of skill,</l>
+                  <l>To leade a Woman by her will:</l>
+                  <l>For ſure there is no other way,</l>
+                  <l>But let them have their <hi>Doe</hi> and <hi>Say.</hi>
+                  </l>
+                  <l>The Art is to encline them ſo,</l>
+                  <l>They may aright both <hi>Say</hi> and <hi>Doe.</hi>
+                  </l>
+                  <l>Elſe do I know no other <hi>fence,</hi>
+                  </l>
+                  <l>But uſe the <hi>Buckler Patience.</hi>
+                  </l>
+                  <l>A man may offer with the <hi>Waſter,</hi>
+                  </l>
+                  <l>But 'tis not good to ſtrike the <hi>Maſter</hi>
+                  </l>
+                  <l>At <hi>School;</hi> and it is the <hi>Scholars</hi> end</l>
+                  <l>To learn no more then how to <hi>fend.</hi>
+                  </l>
+               </sp>
+               <pb n="3" facs="tcp:169978:5"/>
+               <sp>
+                  <speaker>Dicus.</speaker>
+                  <l>If thus it be with marri'd life,</l>
+                  <l>'Tis beſt to be without a Wife.</l>
+               </sp>
+               <sp>
+                  <speaker>Tityrus.</speaker>
+                  <l>Thus Husbands ſay, yet marry ſeven,</l>
+                  <l>As ſome by Croſſes come to Heaven:</l>
+                  <l>The wrecked Merchant under Lea,</l>
+                  <l>A ſecond venture makes to Sea;</l>
+                  <l>And I have heard ſome Husbands tell,</l>
+                  <l>That they of Wives do like ſo well,</l>
+                  <l>Of which they one by one had ſtore,</l>
+                  <l>That they could wiſh as many more.</l>
+                  <l>What cauſe hath <hi>Dicus</hi> then to doubt them?</l>
+                  <l>That ſees ſo few can live without them.</l>
+               </sp>
+               <sp>
+                  <speaker>Dicus.</speaker>
+                  <l>Sure now I think the greateſt blame</l>
+                  <l>In men thus women to defame:</l>
+                  <l>Their goodneſſe he knows beſt that tries them,</l>
+                  <l>But to be good no man denies them.</l>
+                  <l>They ſure are good by <hi>night</hi> or <hi>day,</hi>
+                  </l>
+                  <l>At <hi>bed</hi> or <hi>board,</hi> at <hi>work</hi> or <hi>play,</hi>
+                  </l>
+                  <l>To <hi>follow,</hi> or to <hi>go before,</hi>
+                  </l>
+                  <l>
+                     <hi>Abroad,</hi> or elſe <hi>within the door;</hi>
+                  </l>
+                  <l>Things are they which men ſtill have <hi>need on,</hi>
+                  </l>
+                  <l>But they are beſt of all <hi>to breed on:</hi>
+                  </l>
+                  <l>The <hi>worſt Wives</hi> are not ſo ill wrought,</l>
+                  <l>But they are <hi>good,</hi> though <hi>good for nought:</hi>
+                  </l>
+                  <l>Men erre when they would have them all</l>
+                  <l>Juſt like their looks, <hi>Angelicall,</hi>
+                  </l>
+                  <l>(And yet we reade of <hi>Angels pride</hi>)</l>
+                  <l>She is a <hi>ribbe</hi> of thine own ſide:</l>
+                  <l>That which is pure in her, lo ſhe</l>
+                  <l>Derives from Heav'n, the reſt from thee.</l>
+               </sp>
+               <sp>
+                  <speaker>Tityrus.</speaker>
+                  <l>Faith <hi>Dicus,</hi> now thy <hi>Fate</hi> I ſee,</l>
+                  <l>Thou ſoon a married man wilt be.</l>
+                  <l>This <hi>Tale</hi> among the <hi>Goſſips</hi> tell,</l>
+                  <l>And they will like thee all ſo well,</l>
+                  <pb n="4" facs="tcp:169978:6"/>
+                  <l>(For to be praiſed all rejoyce)</l>
+                  <l>That thou of Wives muſt have thy choice.</l>
+                  <l>But look to't well, thou art of age,</l>
+                  <l>Prove not like <hi>ſullen Bird</hi> in <hi>Cage,</hi>
+                  </l>
+                  <l>Forbear thy meat, and loathe <hi>ſatiety,</hi>
+                  </l>
+                  <l>And long again for free <hi>variety.</hi>
+                  </l>
+                  <l>Oh! be not like the <hi>Fiſh</hi> that plays</l>
+                  <l>About the <hi>Leap,</hi> in love with <hi>Gays,</hi>
+                  </l>
+                  <l>But ſoon as he is in, would fain</l>
+                  <l>Get out but never can again.</l>
+               </sp>
+               <sp>
+                  <speaker>Dicus.</speaker>
+                  <l>If ſo, I ſhall not be alone,</l>
+                  <l>To thee I'le never make my mone.</l>
+               </sp>
+               <sp>
+                  <speaker>Tityrus.</speaker>
+                  <l>Nor t'any elſe, if thou be wiſe,</l>
+                  <l>As thou haſt got, ſo keep thy Priſe;</l>
+                  <l>Look ere thou leap, complaining after</l>
+                  <l>Will with thy friends breed nought but laughter.</l>
+                  <l>An honeſt, chearfull, conſtant life</l>
+                  <l>Will better both thy ſelf and Wife.</l>
+                  <l>But we met here this morning ſoon,</l>
+                  <l>And now my ſhadow ſays 'tis noon;</l>
+                  <l>At <hi>Bed</hi> nor <hi>Board,</hi> if thou wilt marry,</l>
+                  <l>Thou muſt not make thy wife to tarry.</l>
+               </sp>
+               <sp>
+                  <speaker>Dicus.</speaker>
+                  <l>This is the only way to teach,</l>
+                  <l>When men will practiſe what they preach.</l>
+                  <l>How glad am I of this good hap,</l>
+                  <l>To ſee thy <hi>Precepts</hi> in a <hi>Map.</hi>
+                  </l>
+                  <l>What's here in <hi>colours,</hi> to the <hi>life</hi>
+                  </l>
+                  <l>I'le practiſe when I have a Wife.</l>
+                  <l>Farewell: I feel my ſtomack chime,</l>
+                  <l>With <hi>Melibe</hi> 'tis dinner time.</l>
+               </sp>
+            </div>
+            <div n="2" type="eclogue">
+               <pb n="5" facs="tcp:169978:6"/>
+               <head>The ſecond Eglogue.</head>
+               <stage>Speakers, <hi>Dicus, Tityrus.</hi>
+               </stage>
+               <sp>
+                  <speaker>Dicus.</speaker>
+                  <l>NOw <hi>Tityrus,</hi> I try and finde</l>
+                  <l>A <hi>Wife</hi> agreeing to my minde;</l>
+                  <l>My joys reflected doubled are,</l>
+                  <l>She ſhareth half my <hi>Grief</hi> and <hi>Care,</hi>
+                  </l>
+                  <l>In what ſhe joys, I joy no leſſe,</l>
+                  <l>Thus double we our happineſſe.</l>
+                  <l>In all things we communicate,</l>
+                  <l>And come I early home, or late,</l>
+                  <l>She alwaies ready hath to fit</l>
+                  <l>Me with ſome ſweet warm dainty bit.</l>
+                  <l>I finde it now the only life,</l>
+                  <l>To be thus wedded to a Wife.</l>
+                  <l>Lo, I do get, and ſhe doth ſpare,</l>
+                  <l>Abroad I, ſhe at home takes Care,</l>
+                  <l>A married life's a Hav'n of bliſſe,</l>
+                  <l>Which who wants, half himſelf doth miſſe;</l>
+                  <l>My veins now freſher bloud do breed,</l>
+                  <l>I with a better ſtomack feed.</l>
+               </sp>
+               <sp>
+                  <speaker>Tityrus.</speaker>
+                  <l>It is a Rule obſerv'd of all,</l>
+                  <l>Take off the <hi>Common</hi> to the <hi>Stall</hi>
+                  </l>
+                  <l>A Beaſt, and he will better thrive,</l>
+                  <l>As <hi>Bees</hi> beſt gather in a hive.</l>
+                  <l>Good <hi>Dicus,</hi> boaſt not yet too ſoon,</l>
+                  <l>It is with thee but <hi>Honey-Moon:</hi>
+                  </l>
+                  <l>When I to School went, then a childe,</l>
+                  <l>My <hi>Maſter</hi> firſt was <hi>gentle, milde,</hi>
+                  </l>
+                  <l>Yet after he would ſoundly pay</l>
+                  <l>Me four or five times in a day:</l>
+                  <pb n="6" facs="tcp:169978:7"/>
+                  <l>We men like fools are pleas'd with change,</l>
+                  <l>And at the firſt new Wives are ſtrange;</l>
+                  <l>Fierce <hi>Maſtifs</hi> that at <hi>home</hi> will fight,</l>
+                  <l>
+                     <hi>Abroad</hi> will neither bark nor bite;</l>
+                  <l>Weak <hi>Cocks</hi> away the ſtronger chaſe,</l>
+                  <l>Till they be wonted to the place.</l>
+                  <l>Thou never ſhalt her Nature know,</l>
+                  <l>Till ſhe with thee familiar grow.</l>
+                  <l>Then maiſt thou finde true old complaints,</l>
+                  <l>Some wives look <hi>like,</hi> that <hi>prove</hi> no <hi>Saints.</hi>
+                  </l>
+                  <l>Before the Sun comes round about,</l>
+                  <l>Thy certainty may turn to doubt,</l>
+                  <l>And <hi>Hymen</hi> now ſo frolick grown,</l>
+                  <l>In other <hi>Poſture</hi> may be ſhown.</l>
+               </sp>
+               <sp>
+                  <speaker>Dicus.</speaker>
+                  <l>For mine own part I do not fear,</l>
+                  <l>My Wife will hold out all the year:</l>
+                  <l>For certain ſhe is ſtraight and right,</l>
+                  <l>The ſame at <hi>morning, noon</hi> and <hi>night.</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Tityrus.</speaker>
+                  <l>I wiſh ſhe prove to thy deſire,</l>
+                  <l>That all our Wives may her admire,</l>
+                  <l>For ſure moſt Wives are like the <hi>Moon,</hi>
+                  </l>
+                  <l>That <hi>alters Morning, Night,</hi> and <hi>Noon,</hi>
+                  </l>
+                  <l>She never doth from changing ceaſe,</l>
+                  <l>But is in <hi>Wanes,</hi> or in <hi>Encreaſe;</hi>
+                  </l>
+                  <l>Yet let it not to thee ſeem ſtrange,</l>
+                  <l>Thou feel'ſt not ſenſibly her change:</l>
+                  <l>Thou ſeeſt not <hi>ſhadows</hi> how they move,</l>
+                  <l>Till <hi>Motion</hi> plain it ſelf doth prove:</l>
+                  <l>Obſerve her well, thy wife will clear</l>
+                  <l>This <hi>Paradox</hi> within the year.</l>
+               </sp>
+               <sp>
+                  <speaker>Dicus.</speaker>
+                  <l>Thou find'ſt ſuch faults in married life,</l>
+                  <l>I wonder why thou took'ſt a Wife.</l>
+               </sp>
+               <sp>
+                  <speaker>Tityrus.</speaker>
+                  <l>Sure ev'n as thine, it was my <hi>Fate,</hi>
+                  </l>
+                  <l>And now <hi>Repentance</hi> comes too late,</l>
+                  <pb n="7" facs="tcp:169978:7"/>
+                  <l>Some manage can the <hi>curſteſt Dog,</hi>
+                  </l>
+                  <l>The <hi>Ape</hi> makes merry with his clog,</l>
+                  <l>The <hi>Haggard</hi> proves beſt once reclaim'd,</l>
+                  <l>And <hi>mettal'd Horſes</hi> rightly tam'd.</l>
+                  <l>I freely for my part proteſt,</l>
+                  <l>Of all I know <hi>mine</hi> likes me beſt,</l>
+                  <l>And I ſhould take it for a curſe,</l>
+                  <l>To make a change, and have a worſe.</l>
+                  <l>And truly, not to be her debtor,</l>
+                  <l>Not one of twenty hath a better:</l>
+                  <l>Yet for her ſake I cannot ſtrain,</l>
+                  <l>To ſay 'tis <hi>fair</hi> when it doth <hi>rain;</hi>
+                  </l>
+                  <l>Before I <hi>Amo</hi> can decline,</l>
+                  <l>All <hi>Well</hi> breaks up, the Sun doth ſhine.</l>
+                  <l>
+                     <hi>Fate</hi> ne'r good haps by handfuls brings,</l>
+                  <l>From out the bad we pick good things.</l>
+               </sp>
+               <sp>
+                  <speaker>Dicus.</speaker>
+                  <l>Oh now thou cogg'ſt for fear or favour,</l>
+                  <l>We'l binde thee to thy good behaviour:</l>
+                  <l>It much doth go againſt my minde,</l>
+                  <l>To hear leaſt ill of woman-kinde:</l>
+                  <l>
+                     <hi>Delights of youth,</hi> for <hi>Middle-age</hi>
+                  </l>
+                  <l>
+                     <hi>Companions, Nurſes</hi> for the <hi>Sage!</hi>
+                  </l>
+                  <l>So neceſſary are all good Wives,</l>
+                  <l>Not one amongſt a hundred thrives</l>
+                  <l>Without them; They preſerve at home</l>
+                  <l>Whatſoever from abroad doth come.</l>
+               </sp>
+               <sp>
+                  <speaker>Tityrus.</speaker>
+                  <l>Some call them <hi>tackled Ships</hi> and <hi>Barges,</hi>
+                  </l>
+                  <l>Some as they count them <hi>Bills of Charges;</hi>
+                  </l>
+                  <l>Some the <hi>Armies Baggage, Stuffe</hi> and <hi>Tents,</hi>
+                  </l>
+                  <l>Moſt <hi>uſefull,</hi> yet <hi>Impediments;</hi>
+                  </l>
+                  <l>And they that on their <hi>tongues</hi> dare jeſt,</l>
+                  <l>With <hi>Aeſope</hi> call them <hi>worſt</hi> and <hi>beſt.</hi>
+                  </l>
+                  <l>In fine, all ſcruples to remove,</l>
+                  <l>The <hi>Beſt</hi> and <hi>Worſt</hi> are as they <hi>prove.</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Dicus.</speaker>
+                  <l>Mine proves already paſſing well.</l>
+               </sp>
+               <pb n="8" facs="tcp:169978:8"/>
+               <sp>
+                  <speaker>Tityrus.</speaker>
+                  <l>You me another <hi>Tale</hi> may tell</l>
+                  <l>Some twelvemonth hence, God give you joy,</l>
+                  <l>And ere that ſend a goodly <hi>Boy.</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Dicus.</speaker>
+                  <l>Which being wean'd, the Summer after,</l>
+                  <l>God ſend me <hi>like my Wife</hi> a Daughter.</l>
+               </sp>
+            </div>
+            <div n="3" type="eclogue">
+               <head>The third Eglogue.</head>
+               <stage>Speakers, <hi>Battus, Dorus.</hi>
+               </stage>
+               <sp>
+                  <speaker>Dorus.</speaker>
+                  <l>GOod day, my Friend, how frolick doſt thou fare?</l>
+                  <l>Freſh chearfull Gallant free from worldly care,</l>
+                  <l>As thou wert beaverd up with Ale and Cakes,</l>
+                  <l>And fed with healing Fleſh of Indian Snakes,</l>
+                  <l>Wedlock abates the fleſh, and fils the purſe,</l>
+                  <l>Sure thou haſt got a Loving tender Nurſe.</l>
+               </sp>
+               <sp>
+                  <speaker>Battus.</speaker>
+                  <l>My Wife ſo ſhe may keep the Purſe,</l>
+                  <l>Is ſure a ſweet indulgent Nurſe,</l>
+                  <l>And for me every Meal provides,</l>
+                  <l>Twelve Diſhes with good Sauce beſides,</l>
+                  <l>Four Fowl, four fruit; and four of Fiſh,</l>
+                  <l>Come fuming on her Chafing-diſh;</l>
+                  <l>Her Woodcock, Bitter, Quail and Rail,</l>
+                  <l>No ſeaſon of the year do fail;</l>
+                  <l>Her Carps, her Gudgeon, Lump and Pout,</l>
+                  <l>She carves to all the Board about;</l>
+                  <l>Her Fruit as Fiſh are ay in ſeaſon,</l>
+                  <l>Crab, Medlar, Artichoak, Small Reaſon,</l>
+                  <l>Beſides Green Sallets neatly dreſt,</l>
+                  <l>Of which ſhe Purſline liketh beſt;</l>
+                  <l>And though I with ſuch chear am fed.</l>
+                  <l>I oft go ſupperleſſe to bed:</l>
+                  <pb n="9" facs="tcp:169978:8"/>
+                  <l>Where ſhe for me alone unſhown</l>
+                  <l>Preſerves a warm bit of her own,</l>
+                  <l>To take for my beſt health and eaſe,</l>
+                  <l>Ev'n, Morning, Midnight, as I pleaſe;</l>
+                  <l>And if I Fleſh refrain, her zeal</l>
+                  <l>Boils up for me a Salmon-Peal:</l>
+                  <l>Me truſt, this is a true Relation,</l>
+                  <l>No Bachelor hath ſuch accomodation.</l>
+               </sp>
+               <sp>
+                  <speaker>Dorus.</speaker>
+                  <l>Sure thou doſt live a gallant Lord-like life,</l>
+                  <l>With ſuch a curious Cater, Cook, and Wife;</l>
+                  <l>Who raw, boil'd, bak't, ſhe ſtill with ſo ſmall coſts</l>
+                  <l>Provides, and never fails to rule the Roſt:</l>
+                  <l>I could not think a Shepherds Swain were able</l>
+                  <l>To furniſh with ſuch rarities his Table.</l>
+               </sp>
+               <sp>
+                  <speaker>Battus.</speaker>
+                  <l>Batchelors get exceedings now and then,</l>
+                  <l>But not ſuch conſtant Meals as Married men,</l>
+                  <l>They ſeldome have them in due time and place,</l>
+                  <l>Or to them, after, or before ſay grace,</l>
+                  <l>Fall to My Friends, be merry, do not ſpare,</l>
+                  <l>You'l finde few married men have better Fare;</l>
+                  <l>Who for his Friend prepares a coſtly Feaſt,</l>
+                  <l>Himſelf harms more by half then good his Gueſt.</l>
+               </sp>
+               <sp>
+                  <speaker>Dorus.</speaker>
+                  <l>If as thou ſaiſt this be a Husbands diet,</l>
+                  <l>Give me a dinner of green Herbs with quiet,</l>
+                  <l>I better like one diſh with ſingle life,</l>
+                  <l>Then all theſe choiceſt dainties with a Wife.</l>
+                  <l>An Herd-boys life precedes a Ladies Page,</l>
+                  <l>Give me full Flight, I hate a guilded Cage.</l>
+               </sp>
+               <sp>
+                  <speaker>Battus.</speaker>
+                  <l>Ploughmen prefer their Pudding to a Banquet.</l>
+                  <l>The Sow you well know what before a Pan-cake;</l>
+                  <l>Bachelors have good things but oft miſguided,</l>
+                  <l>A Wife is neat and never unprovided:</l>
+                  <l>Beſides you take your Meals moſt what by halves,</l>
+                  <l>And boaſt that change of Paſture makes fat calfs:</l>
+                  <pb n="10" facs="tcp:169978:9"/>
+                  <l>But certain 'tis a Beaſt thrives beſt of all</l>
+                  <l>Put off the Common to the ſeverall:</l>
+                  <l>A good Wife ſurely is a greater treaſure,</l>
+                  <l>Then all the choiſe and coſtly Dames of pleaſure.</l>
+               </sp>
+               <sp>
+                  <speaker>Dorus.</speaker>
+                  <l>And I eſteem my <hi>Phillida</hi> with meaſure</l>
+                  <l>Above her thou doſt count ſo rich a treaſure:</l>
+                  <l>Yet let it not my Friend to thee ſeem ſtrange</l>
+                  <l>Men are as Women often given to change,</l>
+                  <l>A bone of Fiſh makes Fleſh a better meal,</l>
+                  <l>The changes alwayes is the ſweeteſt peal;</l>
+                  <l>A Pearch or Gudgion puld up by my hook</l>
+                  <l>Taſts ſweeter then a Pullet from the coop;</l>
+                  <l>A Rook ſcarce fledg tak'n new out of the neaſt</l>
+                  <l>Eats tend'rer then a Pheaſant at a feaſt:</l>
+                  <l>'Tis good advice to young men given to tarry,</l>
+                  <l>And to an old man not at all to marry:</l>
+                  <l>Certes my friend 'twould vex me to the life,</l>
+                  <l>A Cuckold to be made by mine own Wife,</l>
+                  <l>Whereof I by the Curteſie muſt ſtand</l>
+                  <l>Seis'd for my term of Life as of her Land.</l>
+                  <l>Wives are as Haggards, which Men lure at eaſe,</l>
+                  <l>But they'l come in or lye out as they pleaſe:</l>
+                  <l>We muſt be alwayes ſubject to their check,</l>
+                  <l>And if wee'l ſtand in grace muſt come at beck;</l>
+                  <l>Not ſit up late at night not riſe too ſoon,</l>
+                  <l>Muſt ſure come home at dinner juſt at noon,</l>
+                  <l>Which hour ſhe keeps, as <hi>Cynthia</hi> firm and ſteddy,</l>
+                  <l>That is as ſoon as ſhe is up and ready.</l>
+                  <l>If ſhe Recuſe, to Church ſhe muſt not come;</l>
+                  <l>If ſhee'l to Church he muſt not ſtay at home;</l>
+                  <l>And if the Fit or humour on her come,</l>
+                  <l>Shee'l neither go to Church nor ſtay at home:</l>
+                  <l>One bed holds both ſo long as they be One:</l>
+                  <l>If out, th'whole houſe too ſtreight's for her alone.</l>
+                  <l>When 'tis her pleaſure to go out and play,</l>
+                  <l>New clothes muſt on and all keep Holy day;</l>
+                  <pb n="11" facs="tcp:169978:9"/>
+                  <l>And when ſhe home returns I'le do her right,</l>
+                  <l>Shee'l make her maids ſit up and work all night.</l>
+                  <l>If thou alone into thy Study look,</l>
+                  <l>She muſt come in and be thy only Book;</l>
+                  <l>To be mine Almanack I well could bear,</l>
+                  <l>So ſhould I have a new one every year.</l>
+                  <l>We of a certain Man do read, but no man</l>
+                  <l>Did ever tell us of a certain Woman;</l>
+                  <l>Yet this I do advertiſe all good fellowes,</l>
+                  <l>To ſhun the fainting Fit they call the yellowes,</l>
+                  <l>For which (beſides it Men objects to ſcorn)</l>
+                  <l>Wives know no cure but drink out of a Horn.</l>
+               </sp>
+               <sp>
+                  <speaker>Battus.</speaker>
+                  <l>Upon my Oath our Juſtice without hearing,</l>
+                  <l>For this would binde thee to thy good abearing,</l>
+                  <l>His Wife for not reforming ſuch a fault</l>
+                  <l>Will never truſt him more to grind her malt:</l>
+                  <l>Now fie I am aſham'd to hear thee preach</l>
+                  <l>Of things which are ſo far above thy reach;</l>
+                  <l>Like our Jack-daw, who when his News do fail</l>
+                  <l>To his good Dames doth on his betters rayl,</l>
+                  <l>Clay lands breeds whiteſt wheat ſo you it till,</l>
+                  <l>That Wife is good that's not extremely ill;</l>
+                  <l>Thou talk'ſt of Robinhood, thou doſt not know</l>
+                  <l>Nor ever yet ſhotſt ſhaft out of his bow,</l>
+                  <l>Why ſhouldſt thou thy great Grandams Daughter ſnib,</l>
+                  <l>Thou moulded art of durt, ſhe of a rib,</l>
+                  <l>Themſelves their Husbands and their meat they dreſſe well,</l>
+                  <l>Worſt you can ſay, They are the weaker veſſell;</l>
+                  <l>Some praiſe, ſome blame the<g ref="char:cmbAbbrStroke">̄</g>, much adoe's about the<g ref="char:cmbAbbrStroke">̄</g>.</l>
+                  <l>Few men can well live with them, none without the<g ref="char:cmbAbbrStroke">̄</g>.</l>
+               </sp>
+               <sp>
+                  <speaker>Dorus.</speaker>
+                  <l>Let me this ſtory for our Teacher borrow,</l>
+                  <l>To tell it at our meeting place to morrow;</l>
+                  <l>For though he by th'whole hower can homely pray,</l>
+                  <l>He little or nothing to his Text can ſay:</l>
+                  <l>Set prayer he abhors as works of merit,</l>
+                  <l>And method is too coſtive for his ſpirit;</l>
+                  <pb n="12" facs="tcp:169978:10"/>
+                  <l>This matter's to his purpoſe who contrives</l>
+                  <l>To be a powrefull man with all your Wives:</l>
+                  <l>But lo the Sun clad in a ſcarlet gown</l>
+                  <l>Looks biggeſt at us at his going down;</l>
+                  <l>The Birds that early with his light aroſe,</l>
+                  <l>Do wanting uſe of eyes their eye lids cloſe.</l>
+               </sp>
+               <sp>
+                  <speaker>Battus.</speaker>
+                  <l>If Sun ſets in a cloud we ſhall have rain;</l>
+                  <l>Look all our flocks are ſcattered on the plain.</l>
+               </sp>
+               <sp>
+                  <speaker>Dorus.</speaker>
+                  <l>Sweet <hi>Battus,</hi> prove it fair or rainy weather,</l>
+                  <l>Lets fould our flocks though not our heads together,</l>
+                  <l>Ile home and ſleep in cottage void of ſtrife.</l>
+               </sp>
+               <sp>
+                  <speaker>Battus.</speaker>
+                  <l>And I in th'Arms of my ſweet loving Wife.</l>
+               </sp>
+               <sp>
+                  <speaker>Dorus.</speaker>
+                  <l>To morrow I will come and ſee her Feaſt,</l>
+               </sp>
+               <sp>
+                  <speaker>Battus.</speaker>
+                  <l>And welcome in good earneſt or in jeſt;</l>
+                  <l>But if thou would'ſt continue in her favour,</l>
+                  <l>See thou be conſtant to thy good behaviour.</l>
+               </sp>
+               <sp>
+                  <speaker>Dorus.</speaker>
+                  <l>But what if I bring <hi>Tyterus</hi> along?</l>
+               </sp>
+               <sp>
+                  <speaker>Battus.</speaker>
+                  <l>He can us ſing a paſtorall ſweet Song.</l>
+               </sp>
+               <sp>
+                  <speaker>Dorus.</speaker>
+                  <l>In youth he could both caroll, dance and play,</l>
+                  <l>But with his head, his wit begins to gray;</l>
+                  <l>Like skillfull Lech his Patient he can pleaſe,</l>
+                  <l>Yet be in open war with his diſeaſe:</l>
+                  <l>Malignant humours purg'd by golden Pill</l>
+                  <l>Improve a Wife by giving her her will.</l>
+               </sp>
+               <sp>
+                  <speaker>Battus.</speaker>
+                  <l>When his Grand-maſter <hi>Melibaus</hi> died,</l>
+                  <l>His Freaks and Frolicks all were laid aſide.</l>
+               </sp>
+               <sp>
+                  <speaker>Dorus.</speaker>
+                  <l>Such mirth is moſt extreamly good at Feaſts,</l>
+                  <l>Some Fools are cur'd by precepts ſome by jeſts:</l>
+                  <pb n="13" facs="tcp:169978:10"/>
+                  <l>His labours vain againſt the ſtream that ſtrives,</l>
+                  <l>Good Husbands only know to make good wives.</l>
+               </sp>
+            </div>
+            <div n="4" type="eclogue">
+               <head>The fourth Eglogue.</head>
+               <stage>Speakers, <hi>Battus, Dorus, Tyterus.</hi>
+               </stage>
+               <sp>
+                  <speaker>Battus.</speaker>
+                  <l>THis Morn my Wife and I did riſe,</l>
+                  <l>Before the Stars ſet in the skies.</l>
+               </sp>
+               <sp>
+                  <speaker>Dorus</speaker>
+                  <l>Which made <hi>Aurora</hi> bluſh ſo red,</l>
+                  <l>To ſee Sun up and ſhe in Bed:</l>
+                  <l>This mornings redneſſe certainly declares,</l>
+                  <l>This heat ere night will melt in Flouds of tears;</l>
+                  <l>But whileſt our Flocks are feeding here's a bowr,</l>
+                  <l>In this fair Oak will ſhelter from a ſhowr,</l>
+                  <l>Whileſt <hi>Tyterus</hi> whom I have brought alang,</l>
+                  <l>Delights our Ears with Paſtorall and Song.</l>
+               </sp>
+               <sp>
+                  <speaker>Tyterus.</speaker>
+                  <l>In younger years (which I remember ſtill)</l>
+                  <l>I once lay flumbring on <hi>Parnaſſus</hi> Hill,</l>
+                  <l>Where ſurely I a ſounder nap had taken,</l>
+                  <l>Had I not been with hideous noiſe awaken;</l>
+                  <l>I thought of Wolves, but prov'd cloſe by th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>,</l>
+                  <l>Fierce Maſtifs full of jealouſies and fears:</l>
+                  <l>Upon freſh trail they bellow out like thunder,</l>
+                  <l>And all <hi>within their dint</hi> like <hi>lightning</hi> plunder;</l>
+                  <l>They cry in <hi>Kirk</hi> and <hi>State</hi> for <hi>Reformations,</hi>
+                  </l>
+                  <l>Thereby to make <hi>ours</hi> their <hi>own Habitations;</hi>
+                  </l>
+                  <l>They this pretend for good of all our Lambs,</l>
+                  <l>Devouring all our Kiddys with their Dams;</l>
+                  <l>God on the <hi>dwellings</hi> hath his juſtice ſhewn,</l>
+                  <l>They that did covet <hi>ours</hi> have loſt their <hi>own;</hi>
+                  </l>
+                  <l>May never ſuch devouring greedy hounds</l>
+                  <l>Uncoupled be again on Engliſh grounds:</l>
+                  <pb n="14" facs="tcp:169978:11"/>
+                  <l>Be's name to all poſterity a ſcorn,</l>
+                  <l>That firſt up to this hunt did winde his Horn.</l>
+               </sp>
+               <sp>
+                  <speaker>Dorus.</speaker>
+                  <l>What this to thee? theſe ſtirs far North were made,</l>
+                  <l>Thou <hi>Tyterus</hi> laiſt ſafe here under ſhade.</l>
+               </sp>
+               <sp>
+                  <speaker>Tyterus.</speaker>
+                  <l>It is my nature, I more inly groan,</l>
+                  <l>For others ſufferings, then at mine own:</l>
+                  <l>My bowels yern, my heart within doth bleed,</l>
+                  <l>To hear th'ill brought on them and their Seed.</l>
+               </sp>
+               <sp>
+                  <speaker>Dorus.</speaker>
+                  <l>I fear'd at firſt, thou out of diſcontent,</l>
+                  <l>Hadſt ſhot thy Bolt 'gainſt <hi>preſent Government.</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Tyterus.</speaker>
+                  <l>I loathe to make my <hi>Governors</hi> a <hi>mark,</hi>
+                  </l>
+                  <l>No <hi>gentle</hi> dog will at his Keeper bark,</l>
+                  <l>They certain that above the Stern do ſteer,</l>
+                  <l>Great <hi>Atlas</hi> burthens on their ſhoulders bear,</l>
+                  <l>I envy not the <hi>States</hi> that higheſt be,</l>
+                  <l>Let me <hi>enjoy</hi> my <hi>ſelf</hi> and <hi>conſcience free;</hi>
+                  </l>
+                  <l>The Pow'rs that are, be by the Heavens ordain'd,</l>
+                  <l>And none but by that Pow'r can be maintain'd:</l>
+                  <l>They feed my Lamb from Wolves and Tigers, I</l>
+                  <l>Can ſcarce preſerve them from the Fox and Fly;</l>
+                  <l>Theſe and the like ſo heavily me preſſe,</l>
+                  <l>For Muſe ſcar'd ne're put on comely dreſſe;</l>
+                  <l>I brake my Pipe, forbear my Lute to ſtring,</l>
+                  <l>So as in tune I have forgot to ſing.</l>
+               </sp>
+               <sp>
+                  <speaker>Dorus.</speaker>
+                  <l>Yet <hi>Tyterus</hi> to ymp the wings of Time</l>
+                  <l>Thou happily remember maiſt ſome Rimes</l>
+                  <l>In praiſe of Wives, for thou haſt married three,</l>
+                  <l>For <hi>Battus</hi> two, too many, three for me,</l>
+                  <l>He hath but one, and would learn how to uſe her,</l>
+                  <l>I none, and therefore fain would learn to chuſe her.</l>
+               </sp>
+               <sp>
+                  <speaker>Tyterus.</speaker>
+                  <l>We old men moſt ambitious are to tell,</l>
+                  <l>Of what in youth we think we have done well,</l>
+                  <pb n="15" facs="tcp:169978:11"/>
+                  <l>Then give me leave to tell you mine own Story,</l>
+                  <l>Not for mine own but for the praiſe and glory</l>
+                  <l>Of all good Wives; who from what I relate</l>
+                  <l>May take a Patern mine to imitate:</l>
+                  <l>Moſt edifying Stories are the Lives</l>
+                  <l>Of Saints and Martyrs, ſo of all good Wives;</l>
+                  <l>I being young and of my ſelf inclin'd</l>
+                  <l>To add a ſecond body to my minde,</l>
+                  <l>Firſt by the Eyes was catcht, then by the Ears,</l>
+                  <l>For that admir'd ſweet conſort of the ſphears,</l>
+                  <l>To Hers fictitious was; an Angels voice</l>
+                  <l>In Ivory caſe did ev'n my ſoul rejoyce;</l>
+                  <l>A Weſtern gale blew me on this good hap</l>
+                  <l>
+                     <hi>Jove</hi> never ſhowr'd gold in a ſofter lap.</l>
+                  <l>Our wooing was not long, mine and her friends,</l>
+                  <l>Our fancies had diſpos'd to ſelf ſame ends,</l>
+                  <l>So I ſoon that great <hi>Keſars</hi> fortune run</l>
+                  <l>I came, I ſaw her and was overcome.</l>
+                  <l>No ſooner I enjoy her but I finde</l>
+                  <l>Her beauteous out-ſide was unto her minde</l>
+                  <l>No other then a priſon, which the rays</l>
+                  <l>Of Light Celeſtiall all within begays,</l>
+                  <l>To hear her talking was a miracle,</l>
+                  <l>Yet all ſhe uttered was an Oracle;</l>
+                  <l>With ſweeteſt gracefull looks ſhe all would teach,</l>
+                  <l>A good Divine ſhe was yet would not preach;</l>
+                  <l>So pious that mine heart began to faint,</l>
+                  <l>Fearing I for a Wife had got a Saint.</l>
+               </sp>
+               <sp>
+                  <speaker>Battus.</speaker>
+                  <l>Is't ſtrange ſome Wives ſhould be good Preachers ſeen?</l>
+                  <l>This Land was lately by a Maiden-Queen</l>
+                  <l>In peace maintain'd full fourty years and more,</l>
+                  <l>So <hi>Sheba, Carthage, Swedes;</hi> and many a ſcore;</l>
+                  <l>Your Abbeſſes do catechiſe and preach,</l>
+                  <l>Their Nuns as them rare works and manners teach.</l>
+               </sp>
+               <pb n="16" facs="tcp:169978:12"/>
+               <sp>
+                  <speaker>Tyterus.</speaker>
+                  <l>Such <hi>Halcyon</hi> daies nere were nor ſhall be ſeen,</l>
+                  <l>As in the Reign of that moſt glorious Queen.</l>
+               </sp>
+               <sp>
+                  <speaker>Dorus.</speaker>
+                  <l>No fear of that I oft have heard it ſaid,</l>
+                  <l>She-Saints abroad do prove beſt wives in Bed;</l>
+                  <l>Your ſtricteſt Matrons upon ſuch a motion,</l>
+                  <l>We'l cool in zeal and lay by their devotion;</l>
+                  <l>I for moſt certain will relate a Story,</l>
+                  <l>One took a Siſter by the Directory,</l>
+                  <l>Whoſe Brother dying and ſhe left his Heir,</l>
+                  <l>He wedded her by Book of Common Prayer;</l>
+                  <l>By which is plainly given to underſtand,</l>
+                  <l>Leſſe danger is in loſing Wives then Land.</l>
+               </sp>
+               <sp>
+                  <speaker>Battus.</speaker>
+                  <l>Fie <hi>Dorus,</hi> thou art much too blame to clatter,</l>
+                  <l>And tell a Story nothing to the matter;</l>
+                  <l>It argues them of ſpight and inſolence,</l>
+                  <l>To interrupt the good Wives Evidence.</l>
+               </sp>
+               <sp>
+                  <speaker>Tyterus.</speaker>
+                  <l>Shee free obedience offered me as Head,</l>
+                  <l>I her all Honour at my board and bed;</l>
+                  <l>She wholſome meat, not coſtly, made my diet,</l>
+                  <l>My Coat was even a Paradiſe of quiet:</l>
+                  <l>When 'mongſt the ſhepheardeſſes ſhe was ſeen,</l>
+                  <l>All juſtly her adored as their Queen:</l>
+                  <l>She as dear Siſters them did uſe and call,</l>
+                  <l>And in ſweet humbleneſſe out-went them all;</l>
+                  <l>When in a round they ſate them down to ſing,</l>
+                  <l>She treble was and Diamond in the Ring:</l>
+                  <l>My Coats chief Ornament by day by night,</l>
+                  <l>The golden Candleſtick whence iſſues light;</l>
+                  <l>If ought ſhe ſaw in others worth her heed,</l>
+                  <l>She practis'd, and her patern aid exceed,</l>
+                  <l>For ſhe not only knew but practis'd all</l>
+                  <l>The graces grown in her habituall.</l>
+               </sp>
+               <pb n="17" facs="tcp:169978:12"/>
+               <sp>
+                  <speaker>Battus.</speaker>
+                  <l>If ſhe tranſcended ſo in word and deed,</l>
+                  <l>Why is ſhe gone and left none of her breed?</l>
+               </sp>
+               <sp>
+                  <speaker>Tyterus.</speaker>
+                  <l>Heavens would not ſo much for one mortall do</l>
+                  <l>As give him ſuch a Wife and Children too,</l>
+                  <l>A loſſe not portable, but that we plain</l>
+                  <l>Diſcern our loſſe was her immortall gain;</l>
+                  <l>The God of Life when he did her deny</l>
+                  <l>A pow'r to live, moſt willing made to die.</l>
+               </sp>
+               <sp>
+                  <speaker>Dorus.</speaker>
+                  <l>Fye fit thou art too ſerious once I win,</l>
+                  <l>I heard thee tell then on a merry pin,</l>
+                  <l>Of managing young Colts and younger wives</l>
+                  <l>By gentle handling; who with either ſtrives,</l>
+                  <l>Againſt their will, if they at their firſt taming,</l>
+                  <l>Get but a trick is difficult reclaming;</l>
+                  <l>When thou hadſt got within the Stable door,</l>
+                  <l>Thy Colt, thou firſt his Saddle laidſt before</l>
+                  <l>Him in the Manger, then didſt it on ſet</l>
+                  <l>To make him proud, ere thou preſumeſt to get</l>
+                  <l>Up to his back, thou clawd'ſt him on the breaſt,</l>
+                  <l>And often clap't and coak'ſt him on the creſt,</l>
+                  <l>And to ſecure from kicking would'ſt not fail,</l>
+                  <l>To ſtroak and ſoftly pull him by the tail;</l>
+                  <l>When thou had'ſt mann'd him then thy foot</l>
+                  <l>Before thou mount oft in the ſtirrup put:</l>
+                  <l>Yet foftly, leſt him ſuddenly ſurpriſng,</l>
+                  <l>Thou ſhouldſt provoke to kicking back or riſing;</l>
+                  <l>Thus up thou without ſtick or ſpur wouldſt prove,</l>
+                  <l>How with thee as one body he could move,</l>
+                  <l>And fitting ſure and eaſie in the Saddle,</l>
+                  <l>Thee jots no more then in a Couch or Cradle,</l>
+                  <l>And prancing under's load takes as great pleaſure,</l>
+                  <l>As thou to ride, ſo thou put on with meaſure:</l>
+                  <l>So of a kitten teach a Cat to play,</l>
+                  <l>She will be loving to her dying day.</l>
+                  <pb n="18" facs="tcp:169978:13"/>
+                  <l>But feed an old one that thou didſt not hatch,</l>
+                  <l>She'l churliſh grow and by the fingers ſcratch:</l>
+                  <l>That Wives well learn'd in tongues thereby became</l>
+                  <l>More crafty, as young Foxes bred up tame,</l>
+                  <l>And therefore all young Shepheards didſt adviſe,</l>
+                  <l>To take no Maids from th'Univerſities,</l>
+                  <l>Which Scholars did with ſo much Logick fill,</l>
+                  <l>They would by Syllogiſms maintain their will,</l>
+                  <l>Nor heir to Land, for they will by their own</l>
+                  <l>Revenues make their will and pleaſure known;</l>
+                  <l>Such Emblems home appli'd, would edifie</l>
+                  <l>Us and our Wives,</l>
+               </sp>
+               <sp>
+                  <speaker>Tit.</speaker>
+                  <l>apply't thy ſelf, not I;</l>
+                  <l>Such were the Obſervations of my youth,</l>
+                  <l>Which now I ſee are taken up for truth,</l>
+                  <l>To ſport with Muſes I do oft take leave,</l>
+                  <l>The miſeries of old age to deceive,</l>
+                  <l>An ounce of mirth when I the time can ſpare,</l>
+                  <l>Is better then a pound of grief and care.</l>
+               </sp>
+               <sp>
+                  <speaker>Dorus.</speaker>
+                  <l>This of thy ſecond wife, how proud the firſt?</l>
+                  <l>Then all for better taken were and worſt,</l>
+               </sp>
+               <sp>
+                  <speaker>Tyterus.</speaker>
+                  <l>That which at firſt her friends and ſhe did fear,</l>
+                  <l>Was manifeſt to us within the Year;</l>
+                  <l>A Hectick Feaver her deni'd of breath,</l>
+                  <l>She was unparellel'd in Life and Death.</l>
+               </sp>
+               <sp>
+                  <speaker>Battus.</speaker>
+                  <l>What of thy third? </l>
+               </sp>
+               <sp>
+                  <speaker>Tit.</speaker>
+                  <l>My Friend 'tis not the Fa<g ref="char:EOLhyphen"/>ſhion,</l>
+                  <l>To praiſe the 'live with Funerall Oration,</l>
+                  <l>Her heart I ought bedew with double tears,</l>
+                  <l>As ſhe with me hath doubled both their years;</l>
+                  <l>If fates require that I ſhall ſtay behinde her,</l>
+                  <l>I ſhall commend of her then as I finde her,</l>
+                  <l>Neat, prudent, frugall, bountifull and grave:</l>
+               </sp>
+               <sp>
+                  <speaker>Battus.</speaker>
+                  <l>Sure thou intendeſt a fourth wife to have.</l>
+               </sp>
+               <pb n="19" facs="tcp:169978:13"/>
+               <sp>
+                  <speaker>Dorus.</speaker>
+                  <l>Soft <hi>Bat.</hi> For <hi>Tityrus</hi> I'le undertake,</l>
+                  <l>He'l never wed another for her ſake;</l>
+                  <l>But lo the Sun comes to his Zenith nigheſt,</l>
+                  <l>And leaſt appears now he is mounted higheſt:</l>
+                  <l>But I beleeve it with thy wife is noon</l>
+                  <l>Her dinner's dreſt betime ſhe roſe ſo ſoon.</l>
+                  <l>Come <hi>Tityrus</hi> thou muſt ſee her daily Feaſts,</l>
+                  <l>Where we ſhall finde more diſhes far then gueſts.</l>
+               </sp>
+               <sp>
+                  <speaker>Tyterus.</speaker>
+                  <l>Two diſhes are a plentifull repaſt.</l>
+               </sp>
+               <sp>
+                  <speaker>Dorus.</speaker>
+                  <l>There will be more then thou canſt wiſh to taſte;</l>
+                  <l>But lo, I Weſtward ſee the <hi>Welkin</hi> lowrs,</l>
+                  <l>Before thy wife hath din'd there will be ſhowrs.</l>
+               </sp>
+               <sp>
+                  <speaker>Battus.</speaker>
+                  <l>'Tis not the firſt time I have thus been wet,</l>
+                  <l>Make haſte, the Diſhes on the Board are ſet.</l>
+               </sp>
+               <sp>
+                  <speaker>Dorus.</speaker>
+                  <l>Great <hi>Pan</hi> himſelf had never ſuch a dinner,</l>
+                  <l>Prepar'd him at the charges of a ſpinner;</l>
+                  <l>She comes, let's firſt ſalute this comely Bride,</l>
+                  <l>Then <hi>Tityrus</hi> ſhall ſit down by her ſide:</l>
+                  <l>We with our mirth will make thy Cottage ring,</l>
+                  <l>So will we make this dinner for a King.</l>
+               </sp>
+               <div type="songs_and_poems">
+                  <head>Some of <hi>Tityrus</hi>'s Songs then ſang by <hi>Dorus.</hi>
+                  </head>
+                  <div type="song">
+                     <head>A Mandee to Grammar Scholars.</head>
+                     <lg n="1">
+                        <l>1 TO them that truly Learning prize and love,</l>
+                        <l>I wiſh each <hi>twig,</hi>
+                        </l>
+                        <l>Sweet as a <hi>Fig,</hi>
+                        </l>
+                        <l>The <hi>Ferula</hi> as ſoft as <hi>kidskin</hi> glove.</l>
+                     </lg>
+                     <lg n="2">
+                        <l>2 In time of <hi>Seed</hi> no coſt or labour ſpare,</l>
+                        <l>Who ſoweth <hi>cheap,</hi>
+                        </l>
+                        <l>Shall never <hi>reap</hi>
+                        </l>
+                        <l>Things admirable excellent and rare.</l>
+                     </lg>
+                     <pb n="20" facs="tcp:169978:14"/>
+                     <lg n="3">
+                        <l>3 One hour in in <hi>youth</hi> well ſpent may go for two,</l>
+                        <l>When we grow old,</l>
+                        <l>Our Studie's cold;</l>
+                        <l>The things we <hi>learn</hi> in <hi>youth,</hi> in <hi>age</hi> we <hi>do.</hi>
+                        </l>
+                     </lg>
+                     <lg n="4">
+                        <l>4 <hi>Loaves</hi> heavy prove that riſe not in the <hi>Dough:</hi>
+                        </l>
+                        <l>Flow'rs in the <hi>prime,</hi>
+                        </l>
+                        <l>In far leſſe time</l>
+                        <l>Then they in Summer or in Autumn grow.</l>
+                     </lg>
+                     <lg n="5">
+                        <l>5 Look but before you plainly ſhall deſcry,</l>
+                        <l>
+                           <hi>Honours</hi> attend</l>
+                        <l>On them that ſpend,</l>
+                        <l>Their <hi>youth</hi> in ſacred <hi>Muſes</hi> company.</l>
+                     </lg>
+                     <lg n="6">
+                        <l>6 When they that follow worldly vain <hi>delight,</hi>
+                        </l>
+                        <l>In <hi>folly</hi> ſpend,</l>
+                        <l>What Heav'ns do ſend,</l>
+                        <l>And ſet in miſts of ſad obſcured night.</l>
+                     </lg>
+                     <lg n="7">
+                        <l>7 Hence <hi>younger Brethers</hi> by their ſtudies raiſe,</l>
+                        <l>Their <hi>Houſes</hi> name</l>
+                        <l>To <hi>Height</hi> of fame</l>
+                        <l>And build <hi>brave Monuments</hi> of laſting praiſe.</l>
+                     </lg>
+                     <lg n="8">
+                        <l>8 Which th'Elder finding ready built to hand</l>
+                        <l>Their Genius pleaſe,</l>
+                        <l>In <hi>Sloth and Eaſe,</hi>
+                        </l>
+                        <l>Or waſte in <hi>pride</hi> and <hi>riot, Goods</hi> and <hi>Land.</hi>
+                        </l>
+                     </lg>
+                     <lg n="9">
+                        <l>8 Wherefore to him that truly <hi>Learning</hi> loves,</l>
+                        <l>In ſtead of <hi>twigs,</hi>
+                        </l>
+                        <l>I wiſh ſweet <hi>Figs,</hi>
+                        </l>
+                        <l>For <hi>Ferula's perfumed Kidskin Gloves.</hi>
+                        </l>
+                     </lg>
+                  </div>
+                  <div type="song_or_poem">
+                     <head>To his little Valentine.</head>
+                     <lg>
+                        <l>A Pair of Gloves of Lamb-skin leather fine,</l>
+                        <l>I will beſtow upon my <hi>Valentine.</hi>
+                        </l>
+                        <l>Who is as milde and gentle as a Lamb,</l>
+                        <l>For why? ſhe ſuck'd no other from her Dam;</l>
+                        <pb n="21" facs="tcp:169978:14"/>
+                        <l>As white and clear as Lilly of the Valley,</l>
+                        <l>Apt to delight, to leap, to bound, to dally,</l>
+                        <l>How like a Lamb, ſhe only doth not creep,</l>
+                        <l>And there's good hope ſhe'l never prove a Sheep;</l>
+                        <l>For ſo ſhe ſhould degenerate from her Mother:</l>
+                        <l>To ſuch, if thou be wiſe, ſue, to none other.</l>
+                     </lg>
+                  </div>
+                  <div type="song_or_poem">
+                     <head>To his Miſtreſſe.</head>
+                     <lg>
+                        <l>AS I in me, my Miſtreſſe fair did ſee,</l>
+                        <l>A picking Pipridges, my heart then free</l>
+                        <l>She ſtole away: Ah! knew ſhe what ſhe did?</l>
+                        <l>Picking and ſtealing is by death forbid.</l>
+                     </lg>
+                  </div>
+                  <div type="song_or_poem">
+                     <head>To the ſame.</head>
+                     <lg>
+                        <l>WHen I my love to <hi>Myra</hi> tell,</l>
+                        <l>She anſwers alway well, well, well;</l>
+                        <l>That you can ſpeak well I do know,</l>
+                        <l>But I'de fain learn how you will do.</l>
+                     </lg>
+                  </div>
+                  <div type="song">
+                     <head>A Song.</head>
+                     <lg>
+                        <l>APocryphal are <hi>Stories</hi> not the <hi>Lives,</hi>
+                        </l>
+                        <l>Of valiant <hi>Judith</hi> and <hi>Suſanna</hi> chaſte;</l>
+                        <l>They have and ſhall be <hi>Paterns</hi> for good <hi>Wives,</hi>
+                        </l>
+                        <l>So long as any <hi>Womanhood</hi> ſhall laſt.</l>
+                     </lg>
+                     <lg>
+                        <l>No name like <hi>Sarah's</hi> is ſo dignifi'd,</l>
+                        <l>By <hi>Moſes</hi> in his <hi>world-creating Story,</hi>
+                        </l>
+                        <l>He tels her <hi>Beauty, Tomb,</hi> what <hi>age ſhe di'd,</hi>
+                        </l>
+                        <l>
+                           <hi>Obedience</hi> to her <hi>Lord</hi> her greateſt <hi>glory.</hi>
+                        </l>
+                     </lg>
+                     <lg>
+                        <l>But none th'Almighty doth ſo much regard</l>
+                        <l>As his meek <hi>Handmaids</hi> Virgin-lowlineſſe,</l>
+                        <l>By whom <hi>He</hi> for <hi>His</hi> people <hi>that</hi> prepar'd,</l>
+                        <l>For which all <hi>Generations</hi> ſhall <hi>Her</hi> bleſſe.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <hi>Rebecca, Leah, Ruth, <g ref="char:V">Ʋ</g>riah's</hi> Wife,</l>
+                        <l>Were ſilver Pipes for to convey the Seed</l>
+                        <l>To this <hi>Conduct,</hi> whence ſprang the <hi>Lord of Life,</hi>
+                        </l>
+                        <l>Whoſe <hi>bruiſed heel</hi> ſhould break the <hi>Serpents</hi> head.</l>
+                        <pb n="22" facs="tcp:169978:15"/>
+                        <l>All Stories reade over and o're again,</l>
+                        <l>You'l finde more <hi>women bad</hi> then <hi>good</hi> of Men.</l>
+                     </lg>
+                     <lg>
+                        <l>The <hi>Pride</hi> of <hi>Scholars</hi> is to prove <hi>good Readers,</hi>
+                        </l>
+                        <l>The <hi>Crown</hi> of <hi>Women</hi> is to be <hi>good Breeders.</hi>
+                        </l>
+                     </lg>
+                  </div>
+                  <div type="song_or_poem">
+                     <head>A Suitor to his Miſtreſſe.</head>
+                     <lg>
+                        <l>
+                           <hi>A Strea</hi> that left <hi>Earth</hi> to <hi>Heaven</hi> to flee,</l>
+                        <l>Is now come back and Fair <hi>enſhrin'd</hi> in thee,</l>
+                        <l>Not to return, but ſtay and on me ſhine,</l>
+                        <l>Inrich me thus, and all the world is mine:</l>
+                        <l>Regard a mortal whoſe faint ſoul aſpires,</l>
+                        <l>Enlightned by the Beams celeſtiall fire;</l>
+                        <l>(Compel'd to be thy Convert) but to look</l>
+                        <l>His <hi>Leſſon</hi> o're in thy ſweet <hi>Beauties</hi> Book:</l>
+                        <l>Oh't be my <hi>Heaven on Earth,</hi> may I obtain</l>
+                        <l>Under thy <hi>Scepter</hi> this my higheſt <hi>aim,</hi>
+                        </l>
+                        <l>The <hi>Golden Ball</hi> will prove <hi>lead</hi> to my <hi>gain.</hi>
+                        </l>
+                     </lg>
+                  </div>
+                  <div type="epitaph">
+                     <head>An Epitaph.</head>
+                     <lg>
+                        <l>THis <hi>Widow true</hi> to <hi>onely</hi> one mans <hi>ſide,</hi>
+                        </l>
+                        <l>Might from her body count before ſhe di'd</l>
+                        <l>More <hi>Scions</hi> then be daies in longeſt year,</l>
+                        <l>This <hi>Honywood</hi> did all theſe Hony-ſuckles rear.</l>
+                     </lg>
+                  </div>
+                  <div type="epitaph">
+                     <head>His own Epitaph.</head>
+                     <lg>
+                        <l>
+                           <hi>Haec ſuprema Dies ſit mihi prima quies.</hi>
+                        </l>
+                        <l>Lord let this laſt be my <hi>firſt day</hi> of Reſt.</l>
+                     </lg>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div type="elegies">
+            <pb n="23" facs="tcp:169978:15"/>
+            <head>A Pair of Turtles. <hi>Viz.</hi> Two <hi>Elegies</hi> on the Deaths of <hi>EDM<g ref="char:V">Ʋ</g>ND ALLEYN</hi> Eſquire, Son and Heir to Sir <hi>Edward Alleyn</hi> of <hi>Hatfield</hi> in <hi>Eſsex,</hi> Baronet, and MARY his Wife, left by him with Childe, and died ſoon after her Delivery.</head>
+            <div n="1" type="elegy">
+               <head>The firſt Elegie.</head>
+               <lg>
+                  <l>THe times of <hi>War</hi> and <hi>Peace</hi> this difference have,</l>
+                  <l>In <hi>Peace Sons Fathers</hi> follow to the grave;</l>
+                  <l>In <hi>War</hi> the <hi>Father</hi> mourneth for the <hi>Son,</hi>
+                  </l>
+                  <l>Here <hi>Peace</hi> and <hi>War</hi> do both agree in one.</l>
+                  <l>And ſurely Tears more plentifully fall,</l>
+                  <l>At <hi>Childrens</hi> then at <hi>Parents</hi> Funerall,</l>
+                  <l>By which mans frailty's manifeſtly ſhown,</l>
+                  <l>Who wail not others loſſes but our own:</l>
+                  <l>For why ſhould we with grief our hearts moleſt</l>
+                  <l>For them who quite from cares now live at reſt,</l>
+                  <l>Or plain the ſhortneſſe of their <hi>living day,</hi>
+                  </l>
+                  <l>Who unto <hi>Heaven</hi> have found a nearer way;</l>
+                  <l>And ſetting later out do on us gain</l>
+                  <l>With running, like <hi>Ahimaaz</hi> by the <hi>Plain?</hi>
+                  </l>
+                  <l>They that with diligence will heed their waies,</l>
+                  <l>Attain their <hi>Journeys end</hi> in fewer daies</l>
+                  <pb n="24" facs="tcp:169978:16"/>
+                  <l>Then he that by his oft diverſions ſpends</l>
+                  <l>Much precious <hi>Time,</hi> in worlds delight and friends,</l>
+                  <l>Or maketh in his Inne a longer ſtay,</l>
+                  <l>Whereby his Reck'ning larger grows to pay.</l>
+                  <l>If here on <hi>Earth</hi> we ought to lay up ſtore</l>
+                  <l>For <hi>Heaven,</hi> that our good deeds may go before,</l>
+                  <l>What comfort will't be at our latter end,</l>
+                  <l>When Children we before us thither ſend,</l>
+                  <l>Who ſitting by their ſweeteſt Saviours ſide,</l>
+                  <l>Us <hi>Manſions there,</hi> as we them <hi>here</hi> provide,</l>
+                  <l>Or rather enter on the <hi>habitation</hi>
+                  </l>
+                  <l>Provided for us, ere the worlds foundation:</l>
+                  <l>Oh! what can adde to their felicity,</l>
+                  <l>That ſee their Sons prefer'd before they die</l>
+                  <l>To higher ſtates, then wiſhes can advance</l>
+                  <l>An endleſſe glorious rich Inheritance?</l>
+                  <l>Of which the
+<note n="*" place="margin">Joſeph.</note> Son of <hi>Jacobs</hi> greateſt glory</l>
+                  <l>Was but a Type, <hi>this</hi> laſts, <hi>that</hi>'s tranſitory.</l>
+                  <l>In life thou never envied'ſt him content,</l>
+                  <l>Then do not his laſt happineſſe lament,</l>
+                  <l>Who would not change his ſtate one hour to get</l>
+                  <l>The wealth and honour of a Baronet!</l>
+                  <l>Beleev't thy Son is only gone before,</l>
+                  <l>Thou him muſt follow, he'l return no more.</l>
+                  <l>Then like that good old man thy ſoul revive,</l>
+                  <l>Thou haſt enough, thy Son is yet alive,</l>
+                  <l>
+                     <note n="*" place="margin">Angels.</note> 
+                     <hi>Heavens Chariots</hi> ſhall thee bring to <hi>Goſhens</hi> plain,</l>
+                  <l>Where thou ſhalt <hi>living</hi> ſee thy <hi>Son</hi> again.</l>
+               </lg>
+            </div>
+            <div n="2" type="elegy">
+               <pb n="25" facs="tcp:169978:16"/>
+               <head>The ſecond Elegie.</head>
+               <lg>
+                  <l>WHat many ancient Hiſtories relate</l>
+                  <l>Of <hi>Turtles</hi> conſtant love unto their <hi>Mate,</hi>
+                  </l>
+                  <l>She did exemplifie, and plainly prove,</l>
+                  <l>There is no life in living, but in Love.</l>
+                  <l>The miſſe whereof made her ſo much deplore</l>
+                  <l>Her <hi>Turtles</hi> loſſe, who only went before:</l>
+                  <l>Whom willing ſhe had followed to the <hi>Tomb,</hi>
+                  </l>
+                  <l>But for the <hi>Treaſure</hi> left her in the <hi>Womb,</hi>
+                  </l>
+                  <l>Which had it periſhed by ſuch a croſſe,</l>
+                  <l>The world at once had ſuffer'd too much loſſe.</l>
+                  <l>Now, like another <hi>Phenix</hi> of his ſeed,</l>
+                  <l>She firſt another like her ſelf doth breed.</l>
+                  <l>Long didſt thou look, and longing wiſh to move</l>
+                  <l>Up to thy <hi>Loadſtarre,</hi> which thou eyd'ſt above,</l>
+                  <l>But couldſt not riſe ſo high, till thou wert light,</l>
+                  <l>Then up to Heav'n to him thou tak'ſt thy flight,</l>
+                  <l>As pure <hi>Steel needle</hi> ardently doth move</l>
+                  <l>To <hi>Load-ſtone,</hi> wherewithall it is in love.</l>
+                  <l>Why ſhould'ſt thou thus go out before thy <hi>date,</hi>
+                  </l>
+                  <l>And leave us to bewail thine early <hi>Fate?</hi>
+                  </l>
+                  <l>That all our gain ſuch Vertues to have known,</l>
+                  <l>Turns loſſe ſo ſoon to ſee them from us flown:</l>
+                  <l>As <hi>Vines</hi> beſt <hi>Cluſters</hi> ſooneſt off are pull'd,</l>
+                  <l>And <hi>pureſt Gold</hi> from out the droſſe is cull'd;</l>
+                  <l>So oft the <hi>choiſeſt Mortals</hi> in their <hi>prime,</hi>
+                  </l>
+                  <l>May ſeem hence ſnatch'd away before their time.</l>
+                  <l>But ſuch <hi>fair Cluſters</hi> on Heav'ns board are ſerved,</l>
+                  <l>The <hi>Gold</hi> to bear <hi>Gods</hi> image is preſerved.</l>
+                  <l>We here our ſorrows breathe out to be read,</l>
+                  <l>That ſhe in them may <hi>live,</hi> when we are <hi>dead,</hi>
+                  </l>
+                  <l>Who living well deſerv'd ſhe might die never,</l>
+                  <l>And by her dying here, to live for ever.</l>
+                  <l>Though both were ſhort and ſudden, her example</l>
+                  <l>In <hi>Life</hi> and <hi>Death</hi> is as a <hi>Volume ample,</hi>
+                  </l>
+                  <pb n="26" facs="tcp:169978:17"/>
+                  <l>Where all may reade aright to live and die,</l>
+                  <l>And follow her to true felicity.</l>
+                  <l>But why ſpeak I of <hi>Death?</hi> her Bodies frame</l>
+                  <l>Is only turn'd to duſt, her vertues fame</l>
+                  <l>Like fumes of burning <hi>Cedar</hi> doth aſcend,</l>
+                  <l>And ſavour ſweeteſt in her latter end.</l>
+                  <l>
+                     <hi>Ay</hi> let her bleſſed <hi>memory</hi> remain,</l>
+                  <l>To ſee if Wives hereafter can attain</l>
+                  <l>To her perfection: And theſe ſabled Rimes</l>
+                  <l>Be paterns for good Wives in following times.</l>
+                  <l>Thrice happy they that lay Corruption down,</l>
+                  <l>To gain that rich incorruptible Crown,</l>
+                  <l>Which them doth more aſſuredly attend,</l>
+                  <l>Who like her live, and dying like her end.</l>
+                  <l>And let one Tomb their aſhes here contain,</l>
+                  <l>Who liv'd and lov'd as ſure to meet again.</l>
+                  <l>They in the fair and in the ſtormy weather,</l>
+                  <l>Do <hi>fly, cry, die, and lie together.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Our Daies are likened to a Tale that's told.</hi>
+                  </l>
+                  <l>
+                     <hi>Which long and tedious grow as men grow old,</hi>
+                  </l>
+                  <l>
+                     <hi>The yonger ſhorter tell: If Death once ſtrike,</hi>
+                  </l>
+                  <l>
+                     <hi>The long and ſhorter Tales cloſe both alike.</hi>
+                  </l>
+                  <l>
+                     <hi>I care not whether long or ſhort I tell,</hi>
+                  </l>
+                  <l>
+                     <hi>So I can hit it right and end it well.</hi>
+                  </l>
+               </lg>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
